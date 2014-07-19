@@ -1,5 +1,5 @@
 # Reproducible Research: Peer Assessment 1
-By rromeror
+By rromeror - 19.07.2014
 
 ## Loading and preprocessing the data
 The data is loaded as follows,
