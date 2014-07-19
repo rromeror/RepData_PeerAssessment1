@@ -1,5 +1,5 @@
 # Reproducible Research: Peer Assessment 1
-By rromeror
+By rromeror - 19.07.2014
 ```{r set options,echo = FALSE}
 opts_chunk$set(echo = TRUE) 
 ```
